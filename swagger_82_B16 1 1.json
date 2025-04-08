@@ -8,9 +8,9 @@
     "/api/accessauthorization": {
       "get": {
         "tags": [
-          "AccessAuthorization"
+          "AccessAuthorization - testing"
         ],
-        "summary": "Gets the access authorizations",
+        "summary": "Gets the access authorizations details testing",
         "responses": {
           "200": {
             "description": "OK",
